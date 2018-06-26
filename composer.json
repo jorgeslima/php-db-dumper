@@ -1,0 +1,7 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.61",
+        "vlucas/phpdotenv": "^2.4",
+        "ifsnop/mysqldump-php": "^2.4"
+    }
+}
